@@ -30,4 +30,4 @@ function addProjectDetails(e) {
 }
 
 
-$.get("http://URL", callBackFn)
+//$.get("http://URL", callBackFn)
