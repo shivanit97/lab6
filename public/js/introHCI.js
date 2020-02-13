@@ -28,3 +28,6 @@ function addProjectDetails(e) {
 
 	console.log("User clicked on project " + idNumber);
 }
+
+
+$.get("http://URL", callBackFn)
